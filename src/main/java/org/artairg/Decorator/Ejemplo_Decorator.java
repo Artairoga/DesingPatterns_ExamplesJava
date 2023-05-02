@@ -1,6 +1,6 @@
 package org.artairg.Decorator;
 
-public class Prueba {
+public class Ejemplo_Decorator {
     public static void main(String[] args) {
         Bebida cafe=new Cafe();
         System.out.println(cafe.getDescripcion());

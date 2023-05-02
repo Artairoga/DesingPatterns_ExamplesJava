@@ -1,6 +1,6 @@
 package org.artairg.Prototype;
 
-public class Prueba {
+public class Ejemplo_Prototype {
     public static void main(String[] args) {
         Formulario formulario1 = new Formulario("Juan Perez", "Calle 123, Ciudad", "juan@example.com");
 

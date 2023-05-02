@@ -1,6 +1,6 @@
 package org.artairg.Builder;
 
-public class Prueba {
+public class Ejemplo_Builder {
     public static void main(String[] args) {
         //Aqui se pueden usar dos constructores,pero por ejemplo si se quiere crear un ordenador sin tarjeta grafica
         //se tendria que usar el constructor vacio y luego los setters, por lo que se tendria que crear un objeto
